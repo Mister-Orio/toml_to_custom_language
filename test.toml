@@ -1,0 +1,4 @@
+[database]
+user = "user"
+password = "pass"
+connections = {max = 50, timeout = 40}
